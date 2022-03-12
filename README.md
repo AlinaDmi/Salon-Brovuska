@@ -1,42 +1,37 @@
-# Приложение салона красоты Бровушка
+# Desctop Beauty Salon App
+An application for working with the database of the beauty salon "Brovushka". Viewing, adding, deleting and editing products and services.
 
-Приложение для работы с базой данных салона красоты "Бровушка". Просмотр, добавление, удаление и редактирование товаров и услуг.
+## Getting started
+These instructions will provide you with a copy of the project and help you run it on your local computer for development and testing.
 
-## Начало работы
-
-Эти инструкции предоставят вам копию проекта и помогут запустить на вашем локальном компьютере для разработки и тестирования.
-
-### Необходимые условия
-
-Для запуска  - установленная Java и наличие БД.
-Для работы с приложением в качестве разработчика - IDE например Intelliji Idea
+### Necessary
+To run, Java is installed and the database is available.
+To work with the application as a developer - IDE for example Intellij Idea
 
 
-### Установка
-
-
-скачать файлы.
-Найти jar по пути:
+### Installation
+Download files.
+Find jar along the way:
 
 ```
 \Центр Бровушка\out\artifacts\Brov_jar
 ```
 
-Открыть консоль в папке с jar. 
-Прописать команду
+Open the console in the jar folder. 
+Run a command
 
 ```
 java -jar Brov.jar
 ```
 
-Для запуска в качестве разработчика - открыть проект с помощью Intelliji Idea
-Для подклбчения к БД можно пропистаь название, адресс, пользовател и пароль в файле:
+To start as a developer - open a project using Intellij Idea
+To connect to the database, you can enter the name, address, user and password in the file:
 
 ```
 src/configure.java
 ```
 
-## Автор
+## Author
 
-* **Дмитриева Алина**
+* **Dmitrieva Alina**
 
